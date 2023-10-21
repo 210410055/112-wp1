@@ -20,7 +20,7 @@ const items = [
     title: "Coffee Brings Friendship",
     descrip: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     category: "lifestyle",
-    img: "/img/photo-3.jpg",
+    img: "/images/photo-3.jpg",
     remote_url: ""
 },
 {
@@ -28,7 +28,7 @@ const items = [
     title: "Coffee Make You Feel Good",
     descrip: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     category: "lifestyle",
-    img: "/img/photo-4.jpg",
+    img: "/images/photo-4.jpg",
     remote_url: ""
 },
 {
@@ -36,7 +36,7 @@ const items = [
     title: "Coffee Make You Calm",
     descrip: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     category: "lifestyle",
-    img: "/img/photo-5.jpg",
+    img: "/images/photo-5.jpg",
     remote_url: ""
 },
 {
@@ -44,7 +44,7 @@ const items = [
     title: "101 Tower In Taipei",
     descrip: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     category: "travel",
-    img: "/img/photo-6.jpg",
+    img: "/images/photo-6.jpg",
     remote_url: ""
 },
 {
@@ -52,7 +52,7 @@ const items = [
     title: "Sun Rise From The Mountain",
     descrip: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     category: "travel",
-    img: "/img/photo-7.jpg",
+    img: "/images/photo-7.jpg",
     remote_url: ""
 },
 {
@@ -60,7 +60,7 @@ const items = [
     title: "Serene Lake With Trees",
     descrip: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     category: "travel",
-    img: "/img/photo-8.jpg",
+    img: "/images/photo-8.jpg",
     remote_url: ""
 },
 {
@@ -68,7 +68,7 @@ const items = [
     title: "Rocks Of Queen Head In Yehliu Taiwan",
     descrip: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     category: "travel",
-    img: "/img/photo-9.jpg",
+    img: "/images/photo-9.jpg",
     remote_url :""
 }
 ]

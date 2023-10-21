@@ -12,12 +12,16 @@ dotenv.config();
 
 import db from "./until/database.js"
 
+import cors from "cors"
+
 app.use(express.json());
 app.use(express.urlencoded({extended: true}));
 app.use(logger('dev'));
 
 app.use(express.static('public'));
 app.set('view engine','ejs');
+
+app.use(cors());
 
 // app.use('/',(req,res,next) => {
 //     //res.send('Hello');
