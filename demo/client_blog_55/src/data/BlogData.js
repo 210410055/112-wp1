@@ -2,7 +2,7 @@ const items = [
     {
     id: 1,
     title: "Seven Reasons Why Coffee Is Awesome",
-    descrip: "Lorem ipsum dolor sit amet consectetur adipisicing elit.\r\n",
+    descrip: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     category: "lifestyle",
     img: "/images/photo-1.jpg",
     remote_url: ""
@@ -10,7 +10,7 @@ const items = [
 {
     id: 2,
     title: "Travel To Paris",
-    descrip: "Lorem ipsum dolor sit amet consectetur adipisicing elit.\r\n",
+    descrip: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     category: "TRAVEL ",
     img: "/images/photo-2.jpg",
     remote_url: ""
